@@ -21,11 +21,9 @@ This is an early version of the project. In the future, I plan to:
 
 ## 🛠️ Getting Started
 
-Since the `node_modules` folder is not uploaded to GitHub, you’ll need to install dependencies before running:
-
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/miraalbareki/chat-app.git
 
 # Go into the project folder
 cd chat-app
